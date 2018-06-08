@@ -1,5 +1,9 @@
 {
-    "scripts":{
-        "test": "node test.js"
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "devDependencies": {
+        "coveralls": "^3.0.1",
+        "jest": "^23.1.0"
     }
 }
