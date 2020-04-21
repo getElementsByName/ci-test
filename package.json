@@ -4,7 +4,7 @@
         "coverage": "jest --coverage --coverageReporters=text-lcov | coveralls"
     },
     "devDependencies": {
-        "coveralls": "^3.0.1",
+        "coveralls": "^3.0.12",
         "jest": "^23.1.0"
     }
 }
